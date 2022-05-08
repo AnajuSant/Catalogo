@@ -4,10 +4,10 @@
 
 > Status: Em desenvolvimento 🔺
 
-### Descrição do Projeto
+ ### Descrição do Projeto
 Meu primeiro desenvolvimento voltado a catalogo de alimentos. 
 
 ### Desenvolvido em
-HTML
-CSS
++ HTML
++ CSS
 
