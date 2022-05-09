@@ -18,4 +18,4 @@ Meu primeiro desenvolvimento voltado a catalogo de alimentos.
 + CSS
 
 
-                                     Dev. Ana Julia Santiago | @Ana.Jusant_
+                                        Dev. Ana Julia Santiago | @Ana.Jusant_
